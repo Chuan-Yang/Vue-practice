@@ -37,7 +37,7 @@ export default {
   },
 
   methods: {
-    // receives a place object via the autocomplete component
+    // receives a place object via the autocomplete component aaaaaa
     setPlace (place) {
       this.currentPlace = place
     },
